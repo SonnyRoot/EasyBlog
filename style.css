@@ -11,3 +11,11 @@ body {
   font-size: 25px;
   font-family: "GT Eesti Pro", "Courier", monospace;
 }
+
+p {
+ text-align: center; 
+}
+
+h1 {
+ text-align: center ;
+}
