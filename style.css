@@ -1,25 +1,4 @@
-@font-face {
-  font-family: "GT Eesti Pro";
-  font-style: normal;
-  font-weight: 400;
-  /* Браузер сначала попробует найти шрифт локально */
-  src: local("GT Eesti Pro"),
-       url("/fonts/GT_Eesti_Pro.otf") format("otf"),
-}
-
 body {
   font-size: 20px;
   font-family: "GT Eesti Pro", "Courier", monospace;
-}
-
-p.aligntext {
-    margin-left: auto;
-    margin-right: auto;
-    width: 5em
-}
-
-h1.blocktext {
-    margin-left: auto;
-    margin-right: auto;
-    width: 6em
 }
