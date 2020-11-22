@@ -8,14 +8,14 @@
 }
 
 body {
-  font-size: 25px;
+  font-size: 20px;
   font-family: "GT Eesti Pro", "Courier", monospace;
 }
 
 p.aligntext {
     margin-left: auto;
     margin-right: auto;
-    width: 6em
+    width: 5em
 }
 
 h1.blocktext {
