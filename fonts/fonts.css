@@ -1,0 +1,13 @@
+font-face {
+  font-family: "GT Eesti Pro Display Medium";
+  font-style: normal;
+  font-weight: 400;
+  /* Браузер сначала попробует найти шрифт локально */
+  src: local("Roboto"),
+       url("/fonts/GT_Eesti_Pro.otf") format("otf"),
+}
+
+body {
+  font-size: 52px;
+  font-family: "GT Eesti Pro Display Medium", "Courier", monospace;
+}
