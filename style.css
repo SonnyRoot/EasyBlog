@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 400;
   /* Браузер сначала попробует найти шрифт локально */
-  src: local("Roboto"),
+  src: local("GT Eesti Pro Display Medium"),
        url("/fonts/GT_Eesti_Pro.otf") format("otf"),
 }
 
